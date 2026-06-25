@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Sous les néons de la ville, you know you're my muse
+> Je lis dans ton regard ce désir qui t'amuse
+> Dans la chaleur du club, baby take my hand
+> Laisse le groove nous guider, I'll be your man
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
